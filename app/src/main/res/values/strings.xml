@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Laboratorio 09</string>
+    <string name="Buscar">item_bucar</string>
+    <string name="buscar">Buscar</string>
+    <string name="sobre">Sobre</string>
+    <string name="tab_venda">Venda</string>
+    <string name="dica_modelo_moto">Modelo da Moto</string>
+    <string name="dica_ano_fabricacao">Ano de Fabricação</string>
+    <string name="tab_aluguel">Aluguel</string>
+    <string name="tab_clientes">Clientes</string>
+</resources>

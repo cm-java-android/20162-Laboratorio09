@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/itemBuscar"
+        android:title="@string/buscar"
+        android:showAsAction="ifRoom"
+        android:layout_width="match_parent" />
+    <item android:id="@+id/itemSobre"
+          android:title="@string/sobre"
+        android:icon="@android:drawable/ic_menu_info_details" />
+</menu>
